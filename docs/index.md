@@ -1,4 +1,4 @@
-# UI Framework产品需求
+# UI Framework产品页面需求
 
 ## 页面布局
 
@@ -30,27 +30,3 @@
 ![UI Framework Responsive Layout Grid](./UI_Framework/Layout-Responsive_Layout_Grid.png)
 10 column（每个column 88px）， gutter（16px），margin（0）
 
-
-
-## Typography
-![UI Framework Typography1](./UI_Framework/Typography1.png)
-1. 点击图标，当前矩形框内容向下滑，显示代码内容
-2. 文字两侧距矩形框16px，点击Heading显示详细信息
-
-![UI Framework Typography2](./UI_Framework/Typography2.png)
-
-点击字体展示字体的详细内容，同时其他内容下滑
-
-1. 字体详细信息，背景色为#F5F5F5
-2. 字体：Roboto 14px Regular #B0B0B0
-3. 字体：Roboto 14px Regular #000000
-
-![UI Framework Typography3](./UI_Framework/Typography3.png)
-1. 点击其他型号字体，上次点击后显示的详细信息收起，同时显示当前点击字体型号的详细信息
-
-## Color
-![UI Framework Color](/UI_Framework/Color.png)
-1. Primary,Secondary: 字体Subtitle 2
-2. 大写字母P，S：Roboto  Regular 24px #000000
-3. 编号：字体 body 2
-4. 颜色块：58px*58px

@@ -1,7 +1,11 @@
-site_name: My Docs
+site_name: UI Requirement Document
 
 nav:
-  - UI Framework需求: index.md
+  - UI Framework需求: 
+      - '页面需求': 'index.md'
+      - '字体需求': 'typography.md'
+      - '颜色需求': 'color.md'
+
 
 theme:
   name: material
