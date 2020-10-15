@@ -1,7 +1,7 @@
 # UI Framework 色彩需求
 
 ## Color
-![UI Framework Color](/UI_Framework/Color.png)
+![UI Framework Color](./UI_Framework/Color.png)
 
 1. Primary,Secondary: 字体Subtitle 2
 2. 大写字母P，S：Roboto  Regular 24px #000000
