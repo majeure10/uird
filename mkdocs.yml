@@ -5,6 +5,7 @@ nav:
       - '页面需求': 'index.md'
       - '字体需求': 'typography.md'
       - '颜色需求': 'color.md'
+      - '图标需求': 'icon.md'
 
 
 theme:
