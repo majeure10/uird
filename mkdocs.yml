@@ -1,1 +1,9 @@
 site_name: My Docs
+
+nav:
+  - UI Framework需求: index.md
+
+theme:
+  name: material
+  features:
+    tabs: true
