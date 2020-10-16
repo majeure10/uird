@@ -1,4 +1,4 @@
-# UI Framework 字体需求
+# 字体 Typography
 
 ## Typography
 ![UI Framework Typography1](./UI_Framework/Typography1.png)

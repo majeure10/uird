@@ -2,10 +2,11 @@ site_name: UI Requirement Document
 
 nav:
   - UI Framework需求: 
-      - '页面需求': 'index.md'
-      - '字体需求': 'typography.md'
-      - '颜色需求': 'color.md'
-      - '图标需求': 'icon.md'
+      - '布局 Layout': 'index.md'
+      - '字体 Typography': 'typography.md'
+      - '颜色 Color': 'color.md'
+      - '图标 Icon': 'icon.md'
+      - '按钮 Button': 'button.md'
 
 
 theme:
