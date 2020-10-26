@@ -1,20 +1,49 @@
-site_name: UI Requirement Document
+# Create by HW on Oct 16 2020.
+# Copyright © NS Produt Team. All right reserved.
+
+site_name: NS 产品文档
 
 nav:
+  - Home: index.md
   - UI Framework 需求: 
-      - '布局 Layout': 'index.md'
-      - '字体 Typography': 'typography.md'
-      - '颜色 Color': 'color.md'
-      - '图标 Icon': 'icon.md'
-      - '按钮 Button': 'button.md'
-      - '选择器 Selection': 'selection.md'
-  - PRD 产品需求文档:
-      - 'Endurance Test 卡片修改': 'endurance_test_card.md'
-      - 'Scenario Test Monitor 功能': 'scenario_test_monitor.md'
-      - 'Endurance Test Monitor 功能': 'endurance_test_monitor.md'
-
+      - 布局 Layout: ns_ui_framework/layout.md
+      - 字体 Typography: ns_ui_framework/typography.md
+      - 颜色 Color: ns_ui_framework/color.md
+      - 图标 Icon: ns_ui_framework/icon.md
+      - 按钮 Button: ns_ui_framework/button.md
+      - 选择器 Selection: ns_ui_framework/selection.md
+  - NavInfo Simulation 需求:
+      - 仿真任务 Simulation Task: 
+        - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
+        - 查看任务详情:
+          - Scenario Test: ns_prd/task_detail/scenario_test_monitor.md
+          - Endurance Test: ns_prd/task_detail/endurance_test_monitor.md
+  - Produt Team:
+    - Plan (UI Framework): product_team/plan_ui_framework/plan_ui_framework.md
+    - Weekly Report:
+      - 吕涵: 
+        - 周报列表: product_team/weekly_report/lvhan/index.md
+        - 2020-10: product_team/weekly_report/lvhan/lh_2020-10.md
+      - 田子竹: 
+        - 周报列表: product_team/weekly_report/tianzizhu/index.md
+        - 2020-10: product_team/weekly_report/tianzizhu/tzz_2020-10.md
+      - 王涵: 
+        - 周报列表: product_team/weekly_report/wanghan/index.md
+    - Resources:
+      - Sketch: product_team/resource/sketch/resource_sketch.md
 
 theme:
   name: material
+  language: en
+  font: false
   features:
-    tabs: true
+    - tabs
+
+markdown_extensions:
+  - admonition: # 提示块
+  - footnotes: # 脚注
+  - pymdownx.critic: # 高亮
+  - pymdownx.details: # 抽屉效果提示块
+  - pymdownx.tabbed: # Tab效果
+
+copyright: Copyright &copy; 2020 NS Produt Team
