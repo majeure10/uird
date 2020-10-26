@@ -1,13 +1,18 @@
 site_name: UI Requirement Document
 
 nav:
-  - UI Framework需求: 
+  - UI Framework 需求: 
       - '布局 Layout': 'index.md'
       - '字体 Typography': 'typography.md'
       - '颜色 Color': 'color.md'
       - '图标 Icon': 'icon.md'
       - '按钮 Button': 'button.md'
       - '选择器 Selection': 'selection.md'
+  - PRD:
+      - 'PRD 产品需求文档': 
+        - 'Endurance Test 卡片修改': 'endurance_test_card.md'
+        - 'Scenario Test Monitor 功能': 'scenario_test_monitor.md'
+        - 'Endurance Test Monitor 功能': 'endurance_test_monitor.md'
 
 
 theme:
