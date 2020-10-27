@@ -6,12 +6,33 @@ site_name: NS 产品文档
 nav:
   - Home: index.md
   - UI Framework 需求: 
-      - 布局 Layout: ns_ui_framework/layout.md
-      - 字体 Typography: ns_ui_framework/typography.md
-      - 颜色 Color: ns_ui_framework/color.md
-      - 图标 Icon: ns_ui_framework/icon.md
-      - 按钮 Button: ns_ui_framework/button.md
-      - 选择器 Selection: ns_ui_framework/selection.md
+      - Home 首页 : ns_ui_framework/home.md
+      - Feature 特点:
+        - Layout: ns_ui_framework/layout.md
+      - Style 风格:
+        - 字体 Typography: ns_ui_framework/style/typography.md
+        - 颜色 Color: ns_ui_framework/style/color.md
+      - Component 组件:
+        - 图标 Icon: ns_ui_framework/component/icon.md
+        - 按钮 Button: 
+          - Button: ns_ui_framework/component/button/button.md
+          - Icon Button: ns_ui_framework/component/button/icon_button.md
+        - 选择器 Selection:
+          - Checkbox: ns_ui_framework/component/selction/checkbox.md
+          - Radio: ns_ui_framework/component/selction/radio.md
+          - Button Bar: ns_ui_framework/component/selction/button_bar.md
+          - Icon Button Bar: ns_ui_framework/component/selction/icon_button_bar.md
+          - Menu Bar: ns_ui_framework/component/selction/menu_bar.md
+          - Switch: ns_ui_framework/component/selction/switch.md
+          - Chip: ns_ui_framework/component/selction/chip.md
+          - Expanable Chip: ns_ui_framework/component/selction/expanable_chip.md
+          - Dropdown: ns_ui_framework/component/selction/dropdown.md
+        - 反馈 Feedback: 
+          - Tooltip: ns_ui_framework/component/feedback/tooltip.md
+          - Dialog: ns_ui_framework/component/feedback/dialog.md
+          - Loading: ns_ui_framework/component/feedback/loading.md
+          - Notification: ns_ui_framework/component/feedback/notification.md
+          - Alert: ns_ui_framework/component/feedback/.md
   - NavInfo Simulation 需求:
       - 仿真任务 Simulation Task: 
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
