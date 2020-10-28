@@ -1,7 +1,7 @@
 # 色彩 Color
 
 ## Color
-![UI Framework Color](../imgs/ns_ui_framework/Color.png)
+![UI Framework Color](/docs/imgs/ns_ui_framework/style/Color.png)
 
 1. Primary,Secondary: 字体Subtitle 2
 2. 大写字母P，S：Roboto  Regular 24px #000000

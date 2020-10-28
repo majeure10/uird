@@ -1,6 +1,6 @@
-# Alert
+# Alert 提醒
 
-![UI Framework Alert](..imgs/ns_ui_framework/feedback/Alert.png)
+![UI Framework Alert](/docs/imgs/ns_ui_framework/feedback/Alert.png)
 
 1. Information填充色：#009FFF； 字体：Body2 #FFFFFF
 2. Warning填充色：#FBB74F；； 字体：Body2 #FFFFFF

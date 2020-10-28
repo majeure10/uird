@@ -2,7 +2,7 @@
 
 ## UI Framework Layout
 
-![UI Framework Layout](../imgs_ui_framework/Layout.png)
+![UI Framework Layout](../imgs/ns_ui_framework/Layout.png)
 
 1. 一级标题下的二级标题被选中时，一级标题图标及字体均变为主色 #004F9D
 2. 二级标题选中状态：图标和文字全部变为 primary color #004F9D,  矩形框填充色也为注册，透明度20%

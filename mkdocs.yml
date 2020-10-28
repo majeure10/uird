@@ -18,21 +18,21 @@ nav:
           - Button: ns_ui_framework/component/button/button.md
           - Icon Button: ns_ui_framework/component/button/icon_button.md
         - 选择器 Selection:
-          - Checkbox: ns_ui_framework/component/selction/checkbox.md
-          - Radio: ns_ui_framework/component/selction/radio.md
-          - Button Bar: ns_ui_framework/component/selction/button_bar.md
-          - Icon Button Bar: ns_ui_framework/component/selction/icon_button_bar.md
-          - Menu Bar: ns_ui_framework/component/selction/menu_bar.md
-          - Switch: ns_ui_framework/component/selction/switch.md
-          - Chip: ns_ui_framework/component/selction/chip.md
-          - Expanable Chip: ns_ui_framework/component/selction/expanable_chip.md
-          - Dropdown: ns_ui_framework/component/selction/dropdown.md
+          - Checkbox: ns_ui_framework/component/selection/checkbox.md
+          - Radio: ns_ui_framework/component/selection/radio.md
+          - Button Bar: ns_ui_framework/component/selection/button_bar.md
+          - Icon Button Bar: ns_ui_framework/component/selection/icon_button_bar.md
+          - Menu Bar: ns_ui_framework/component/selection/menu_bar.md
+          - Switch: ns_ui_framework/component/selection/switch.md
+          - Chip: ns_ui_framework/component/selection/chip.md
+          - Expanable Chip: ns_ui_framework/component/selection/expanable_chip.md
+          - Dropdown: ns_ui_framework/component/selection/dropdown.md
         - 反馈 Feedback: 
           - Tooltip: ns_ui_framework/component/feedback/tooltip.md
           - Dialog: ns_ui_framework/component/feedback/dialog.md
           - Loading: ns_ui_framework/component/feedback/loading.md
           - Notification: ns_ui_framework/component/feedback/notification.md
-          - Alert: ns_ui_framework/component/feedback/.md
+          - Alert: ns_ui_framework/component/feedback/alert.md
   - NavInfo Simulation 需求:
       - 仿真任务 Simulation Task: 
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md

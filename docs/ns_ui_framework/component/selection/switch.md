@@ -1,6 +1,6 @@
-# Switch
+# Switch 开关
 
-![UI Framework Selection - Switch](../imgs/ns_ui_framework/selection/Switch.png)
+![UI Framework Selection - Switch](/docs/imgs/ns_ui_framework/selection/Switch.png)
 
 1. Switch 组件，蓝色为开，灰色为关
 2. 字体：Body 1
