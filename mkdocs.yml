@@ -8,31 +8,31 @@ nav:
   - UI Framework 需求: 
       - Home 首页 : ns_ui_framework/home.md
       - Feature 特点:
-        - Layout: ns_ui_framework/layout.md
+        - 布局 Layout: ns_ui_framework/layout.md
       - Style 风格:
         - 字体 Typography: ns_ui_framework/style/typography.md
         - 颜色 Color: ns_ui_framework/style/color.md
       - Component 组件:
         - 图标 Icon: ns_ui_framework/component/icon.md
         - 按钮 Button: 
-          - Button: ns_ui_framework/component/button/button.md
-          - Icon Button: ns_ui_framework/component/button/icon_button.md
+          - 按钮 Button: ns_ui_framework/component/button/button.md
+          - 图标按钮 Icon Button: ns_ui_framework/component/button/icon_button.md
         - 选择器 Selection:
-          - Checkbox: ns_ui_framework/component/selection/checkbox.md
-          - Radio: ns_ui_framework/component/selection/radio.md
-          - Button Bar: ns_ui_framework/component/selection/button_bar.md
-          - Icon Button Bar: ns_ui_framework/component/selection/icon_button_bar.md
-          - Menu Bar: ns_ui_framework/component/selection/menu_bar.md
-          - Switch: ns_ui_framework/component/selection/switch.md
-          - Chip: ns_ui_framework/component/selection/chip.md
-          - Expanable Chip: ns_ui_framework/component/selection/expanable_chip.md
-          - Dropdown: ns_ui_framework/component/selection/dropdown.md
+          - 多选 Checkbox: ns_ui_framework/component/selection/checkbox.md
+          - 单选 Radio: ns_ui_framework/component/selection/radio.md
+          - 按钮栏 Button Bar: ns_ui_framework/component/selection/button_bar.md
+          - 图标按钮栏 Icon Button Bar: ns_ui_framework/component/selection/icon_button_bar.md
+          - 菜单栏 Menu Bar: ns_ui_framework/component/selection/menu_bar.md
+          - 开关 Switch: ns_ui_framework/component/selection/switch.md
+          - 纸片 Chip: ns_ui_framework/component/selection/chip.md
+          - 扩展纸片 Expandable Chip: ns_ui_framework/component/selection/expandable_chip.md
+          - 下拉菜单 Dropdown: ns_ui_framework/component/selection/dropdown.md
         - 反馈 Feedback: 
-          - Tooltip: ns_ui_framework/component/feedback/tooltip.md
-          - Dialog: ns_ui_framework/component/feedback/dialog.md
-          - Loading: ns_ui_framework/component/feedback/loading.md
-          - Notification: ns_ui_framework/component/feedback/notification.md
-          - Alert: ns_ui_framework/component/feedback/alert.md
+          - 工具提示 Tooltip: ns_ui_framework/component/feedback/tooltip.md
+          - 对话框 Dialog: ns_ui_framework/component/feedback/dialog.md
+          - 加载 Loading: ns_ui_framework/component/feedback/loading.md
+          - 通知 Notification: ns_ui_framework/component/feedback/notification.md
+          - 提醒 Alert: ns_ui_framework/component/feedback/alert.md
   - NavInfo Simulation 需求:
       - 仿真任务 Simulation Task: 
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
