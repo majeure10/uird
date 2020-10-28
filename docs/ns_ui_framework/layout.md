@@ -38,7 +38,7 @@
 7. 内容一级标题：Heading 4
 8. 内容二级标题：Heading 5
 9. 内容字体：Body 1
-10. 目录一级标题：Body 1
+10. 目录一级标题：Title
 11. 目录二级标题：Body 2 #6D7278
 
 ### UI Framework 响应式布局
