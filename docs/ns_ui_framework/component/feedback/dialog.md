@@ -4,7 +4,7 @@
 
 1. 填充色：primary color #004F9D； 字体：Button #FFFFFF
 
-![UI Framework Dialog Messagebox](../../../imgs/ns_ui_framework/feedback/Dialog_Messagebox.png)
+![UI Framework Dialog Messagebox](../../../imgs/ns_ui_framework/feedback/Dialog-Messagebox.png)
 
 1. 字体：Heading 5
 2. 字体：Body 2
