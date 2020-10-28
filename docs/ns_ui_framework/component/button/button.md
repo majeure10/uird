@@ -1,6 +1,5 @@
 # 按钮 Button
 
-## Button/Button
 ![UI Framework Button-Button](/docs/imgs/ns_ui_framework/Button-Button.png)
 
 1. 正文副标题：Heading 5
@@ -12,7 +11,3 @@
 
 1. 点击该图标，当前显示内容框向下滑，显示当前组件代码
 2. 代码：字体：Monaco regular 16px；代码背景色：#F8F8F8
-
-## Button/Icon Button
-
-![UI Framework Button-Icon Button](/docs/imgs/ns_ui_framework/Button-Icon_Button.png)
