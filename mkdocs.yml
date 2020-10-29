@@ -33,6 +33,9 @@ nav:
           - 加载 Loading: ns_ui_framework/component/feedback/loading.md
           - 通知 Notification: ns_ui_framework/component/feedback/notification.md
           - 提醒 Alert: ns_ui_framework/component/feedback/alert.md
+        - 容器 Container:
+          - 卡片 Card: ns_ui_framework/component/container/card.md
+          - 扩展面板 Accordion: ns_ui_framework/component/container/accordion.md
   - NavInfo Simulation 需求:
       - 仿真任务 Simulation Task: 
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
