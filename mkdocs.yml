@@ -36,6 +36,8 @@ nav:
         - 容器 Container:
           - 卡片 Card: ns_ui_framework/component/container/card.md
           - 扩展面板 Accordion: ns_ui_framework/component/container/accordion.md
+        - 数据 Data:
+          - 数据表 Data Table: ns_ui_framework/component/data/data_table.md
   - NavInfo Simulation 需求:
       - 仿真任务 Simulation Task: 
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
