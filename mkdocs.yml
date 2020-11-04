@@ -5,14 +5,15 @@ site_name: NS 产品文档
 
 nav:
   - Home: index.md
-  - UI Framework 需求: 
-      - Home 首页 : ns_ui_framework/home.md
-      - Feature 特点:
-        - 布局 Layout: ns_ui_framework/layout.md
-      - Style 风格:
+  - UI Framework 需求:
+      - 首页 Home: ns_ui_framework/home.md
+      - 特点 Feature:
+        - 整体说明 Generaal: ns_ui_framework/features/general.md
+        - 布局 Layout: ns_ui_framework/features/layout.md
+      - 风格 Style:
         - 字体 Typography: ns_ui_framework/style/typography.md
         - 颜色 Color: ns_ui_framework/style/color.md
-      - Component 组件:
+      - 组件 Component:
         - 图标 Icon: ns_ui_framework/component/icon.md
         - 按钮 Button: 
           - 按钮 Button: ns_ui_framework/component/button/button.md
@@ -58,7 +59,7 @@ nav:
         - 周报列表: product_team/weekly_report/wanghan/index.md
     - Resources:
       - Sketch: product_team/resource/sketch/resource_sketch.md
-      - Issue: product_team/resource/sketch/resource_issue.md
+      - Issue: product_team/resource/issue/resource_issue.md
 
 theme:
   name: material
