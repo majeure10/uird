@@ -8,7 +8,7 @@ nav:
   - UI Framework 需求:
       - 首页 Home: ns_ui_framework/home.md
       - 特点 Feature:
-        - 整体说明 Generaal: ns_ui_framework/features/general.md
+        - 整体说明 General: ns_ui_framework/features/general.md
         - 布局 Layout: ns_ui_framework/features/layout.md
       - 风格 Style:
         - 字体 Typography: ns_ui_framework/style/typography.md
