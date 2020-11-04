@@ -62,7 +62,7 @@
 ![grid](../../imgs/ns_ui_framework/features/grid.png)
 
 1. margin width = 56
-2. column width = 88
+2. column width = 96
 3. gutter width = 16
 4. default
     * page width = 1440
@@ -96,7 +96,6 @@
 3. Content Panel
     * 位置/效果：页面纵向滚动条
     * W = 912
-    * H = 40
     * Padding = 16 (左右都)
 4. Table of Content
     * 位置/效果：单独纵向滚动条
@@ -148,7 +147,7 @@
 5. 页面未到达 = Table of Content 常规颜色 = #000000
 6. 顶部导航栏阴影效果
     * box-shadow - 底部阴影
-    * 阴影值：x = y = 0；blur = 0.2
+    * 阴影值：x = y = 0；blur = 1
 
 ### 仿真平台 (NI Simulation)
 
