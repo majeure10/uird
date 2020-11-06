@@ -39,8 +39,8 @@ nav:
           - 扩展面板 Accordion: ns_ui_framework/component/container/accordion.md
         - 数据 Data:
           - 数据表 Data Table: ns_ui_framework/component/data/data_table.md
-        - 交互说明:
-          - Interactive Instructions: ns_ui_framework/interactive_instructions.md
+      - 交互说明:
+        - Interactive Instructions: ns_ui_framework/interactive_instructions.md
   - NavInfo Simulation 需求:
       - 仿真任务 Simulation Task: 
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
