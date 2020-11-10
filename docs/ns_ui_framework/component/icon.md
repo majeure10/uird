@@ -2,7 +2,7 @@
 
 ## Icon
 
-![UI Framework Icon](../../imgs/ns_ui_framework/components/Icon.png)
+![UI Framework Icon](../../imgs/ns_ui_framework/components/icon.png)
 
 ## Icon 标注
 
