@@ -1,11 +1,14 @@
 # Dialog 对话框
 
-![UI Framework Dialog](../../../imgs/ns_ui_framework/feedback/Dialog.png)
+## Dialog
 
-1. 填充色：primary color #004F9D； 字体：Button #FFFFFF
+![UI Framework Dialog](../../../imgs/ns_ui_framework/components/feedback/dialog.png)
 
-![UI Framework Dialog Messagebox](../../../imgs/ns_ui_framework/feedback/Dialog-Messagebox.png)
+## Dialog
 
-1. 字体：Heading 5
-2. 字体：Body 2
-3. 字体：Button，颜色 #004F9D
+![UI Framework Dialog Measure](../../../imgs/ns_ui_framework_measure/components/feedback/dialog.png)
+
+1. 点击open dialog 按钮弹出对话框
+    * 标题字体：Heading 5
+    * 正文字体：Body 2
+    * 按钮字体：Button，颜色 #004F9D

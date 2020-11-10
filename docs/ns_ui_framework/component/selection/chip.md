@@ -1,13 +1,21 @@
 # Chip 纸片
 
-![UI Framework Selection - Chip1](../../../imgs/ns_ui_framework/selection/Chip1.png)
+## Chip
 
-1. 圆角矩形颜色：#868686
-2. 字体：Body 2
-3. 圆角矩形颜色：#BAE2FF
-4. 字体：Body 2 #004F9D
+![UI Framework Selection - Chip](../../../imgs/ns_ui_framework/components/selection/chip.png)
 
-![UI Framework Selection - Chip2](../../../imgs/ns_ui_framework/selection/Chip2.png)
+## Chip 标注
 
-点击close按钮后，原chip消失，剩余chip居中
+![UI Framework Selection - Chip Measure](../../../imgs/ns_ui_framework_measure/components/selection/chip.png)
+
+1. 可删去Chip
+    * 圆角矩形颜色：#BAE2FF
+    * 字体：Body 2 #004F9D
+2. 不可删去Chip
+    * 圆角矩形颜色：#868686
+    * 字体：Body 2
+    * 点击close按钮后，原chip消失，剩余chip居中
+
+
+
 

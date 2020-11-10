@@ -1,9 +1,15 @@
 # Switch 开关
 
-![UI Framework Selection - Switch](../../../imgs/ns_ui_framework/selection/Switch.png)
+## Switch
 
-1. Switch 组件，蓝色为开，灰色为关
-2. 字体：Body 1
-3. 圆角矩形颜色：#FDE0B3
-4. 右侧矩形颜色：#F68D05
+![UI Framework Selection - Switch](../../../imgs/ns_ui_framework/components/selection/switch.png)
+
+## Switch 标注
+
+![UI Framework Selection - Switch Measure](../../../imgs/ns_ui_framework_measure/components/selection/switch.png)
+
+1. 提示框标签颜色：#F68D05
+2. 提示框颜色：#FDE0B3
+3. 提示文字：Body 1 #F68D05
+4. [提示](../../../icon_library/alert_event.svg)
 

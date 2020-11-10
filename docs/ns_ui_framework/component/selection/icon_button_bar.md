@@ -1,6 +1,11 @@
 # Icon Button Bar 图标按钮栏
 
-![UI Framework Selection - Icon Button Bar](../../../imgs/ns_ui_framework/selection/Icon_Button_Bar.png)
+## Icon Button Bar
 
-1. 字体：Body 1
+![UI Framework Selection - Icon Button Bar](../../../imgs/ns_ui_framework/components/selection/icon_button_bar.png)
+
+## Icon Button Bar 标注
+
+![UI Framework Selection - Icon Button Bar Measure](../../../imgs/ns_ui_framework_measure/components/selection/icon_button_bar.png)
+
 

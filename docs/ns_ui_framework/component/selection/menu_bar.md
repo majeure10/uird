@@ -1,15 +1,15 @@
 # Menu Bar 菜单栏
 
-![UI Framework Selection - Menu Bar1](../../../imgs/ns_ui_framework/selection/Menu_Bar1.png)
+## Menu Bar
 
-1. 填充颜色：#868686
-2. 字体：Body 1 #FFFFFF
+![UI Framework Selection - Menu Bar](../../../imgs/ns_ui_framework/components/selection/menu_bar.png)
 
-![UI Framework Selection - Menu Bar2](../../../imgs/ns_ui_framework/selection/Menu_Bar2.png)
+## Menu Bar 标注
 
-1. 点击FILE，出现选项框，选项框内字体：Body 2
+![UI Framework Selection - Menu Bar Measure](../../../imgs/ns_ui_framework_measure/components/selection/menu_bar.png)
 
-![UI Framework Selection - Menu Bar3](../../../imgs/ns_ui_framework/selection/Menu_Bar3.png)
-
-1. 点击VIEW，出现选项框，选项框内字体：Body 2
-
+1. 菜单栏
+    * 填充颜色：#868686
+    * 字体：Body 1 #FFFFFF
+2. 点击按钮，出现选项框，
+    * 选项框内字体：Body 2

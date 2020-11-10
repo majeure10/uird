@@ -1,17 +1,21 @@
 # Notification 通知
 
-![UI Framework Notification](../../../imgs/ns_ui_framework/feedback/Notification.png)
+## Notification
 
-1. 填充色：primary color #004F9D； 字体：Button #FFFFFF
+![UI Framework Notification](../../../imgs/ns_ui_framework/components/feedback/notification.png)
 
-![UI Framework Notification - Success](../../../imgs/ns_ui_framework/feedback/Notification-Success.png)
+## Notification 标注
 
-1. 填充色：#4CAF50，字体：Body 2 #FFFFFF
+![UI Framework Notification Measure](../../../imgs/ns_ui_framework_measure/components/feedback/notification.png)
 
-![UI Framework Notification - Information](../../../imgs/ns_ui_framework/feedback/Notification-Information.png)
 
-1. 填充色：#009FFF，字体：Body 2 #FFFFFF
-
-![UI Framework Notification - Warning](../../../imgs/ns_ui_framework/feedback/Notification-Warning.png)
-
-1. 填充色：#FB3437，字体：Body 2 #FFFFFF
+1. 点击按钮通知栏显示在页面下部居中。 成功通知
+    * 填充色：#4CAF50
+    * 字体：Body 2 #FFFFFF
+2. 信息通知
+    * 填充色：#009FFF
+    * 字体：Body 2 #FFFFFF
+3. 警告通知
+    * 填充色：#FB3437
+    * 字体：Body 2 #FFFFFF
+4. [成功](../../../icon_library/checkbox-marked-circle-outline.svg), [信息](../../../icon_library/information.svg)， [警告](../../../icon_library/alert-outline.svg)

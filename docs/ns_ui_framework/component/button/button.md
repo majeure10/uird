@@ -1,13 +1,12 @@
 # 按钮 Button
 
-![UI Framework Button-Button](../../../imgs/ns_ui_framework/button/Button-Button.png)
+## Button
 
-1. 正文副标题：Heading 5
-2. Button 文字： 字体：Button #FFFFFF； Button 按钮：左侧蓝色色号为#004F9D，右侧灰色色号#868686
-3. Button 文字： 左侧蓝色色号为#004F9D，右侧灰色色号#868686
-4. Button 文字： 左侧蓝色色号为#004F9D，右侧灰色色号#868686
+![UI Framework Button-Button](../../../imgs/ns_ui_framework/components/button/button.png)
 
-![UI Framework Button-Button code](../../../imgs/ns_ui_framework/button/Button-Button_code.png)
+## Button 标注
 
-1. 点击该图标，当前显示内容框向下滑，显示当前组件代码
-2. 代码：字体：Monaco regular 16px；代码背景色：#F8F8F8
+![UI Framework Button-Button Measure](../../../imgs/ns_ui_framework_measure/components/button/button.png)
+
+1. Button 主色色号为：#004F9D
+2. Button 复色色号：#868686
