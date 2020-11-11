@@ -9,4 +9,4 @@
 ![UI Framework Layout](../../imgs/ns_ui_framework_measure/feature/layout.png)
 
 1. 图片 padding =16
-2. [12栅格图片](../../imgs/ns_ui_framework/feature/12columns.png), [0栅格图片](../../imgs/ns_ui_framework/feature/0columns.png)
+2. [12栅格图片](../../imgs/ns_ui_framework/features/feature/12columns.png), [0栅格图片](../../imgs/ns_ui_framework/features/feature/0columns.png)
