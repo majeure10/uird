@@ -16,3 +16,7 @@
     * 提示框填充色：#868686
     * 字体Left Tooltip：body 2
 
+
+## 参考资料
+
+* Vuetify: [Vuetify Tooltip](https://vuetifyjs.com/en/components/tooltips/)

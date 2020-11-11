@@ -22,3 +22,7 @@
 ![UI Framework Typography Click2](../../imgs/ns_ui_framework_measure/style/typography/click2.png)
 
 1. 点击其他型号字体，上次点击后显示的详细信息收起，同时显示当前点击字体型号的详细信息
+
+## 参考资料
+
+* Vuetify: [Vuetify Typography](https://vuetifyjs.com/en/styles/text-and-typography/)

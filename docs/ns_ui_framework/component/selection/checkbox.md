@@ -11,3 +11,7 @@
 1. 选中状态，颜色为#004F9D
 2. 选项字体：Body 1
 
+## 参考资料
+
+* Vuetify: [Vuetify Checkbox](https://vuetifyjs.com/en/components/checkboxes/)
+

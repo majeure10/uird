@@ -11,3 +11,7 @@
 1. Card Title: Title
 2. Subtitle Text: Body 2
 3. ACTION 1, ACTION 2: BUTTON #004F9D
+
+## 参考资料
+
+* Vuetify: [Vuetify Card](https://vuetifyjs.com/en/components/cards/)

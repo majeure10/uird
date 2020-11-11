@@ -20,3 +20,7 @@
 4. Success
     * 填充色：#4CAF50；
     * 字体：Body 2 #FFFFFF
+
+## 参考资料
+
+* Vuetify: [Vuetify Alert](https://vuetifyjs.com/en/components/alerts/#type)

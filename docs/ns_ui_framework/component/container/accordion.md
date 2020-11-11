@@ -11,4 +11,8 @@
 1. Item: Subtitle 1， 点击该面板，面板展开显示内容，其他部分下滑，
 2. Lorem ipsum : Body 1
 
+## 参考资料
+
+* Vuetify: [Vuetify Expansion panels - Accordion](https://vuetifyjs.com/en/components/expansion-panels/#accordion)
+
 

@@ -19,3 +19,9 @@
     * 填充色：#FB3437
     * 字体：Body 2 #FFFFFF
 4. [成功](../../../icon_library/checkbox-marked-circle-outline.svg), [信息](../../../icon_library/information.svg)， [警告](../../../icon_library/alert-outline.svg)
+
+
+## 参考资料
+
+* Element: [Element Notifu=ication](https://elemefe.github.io/element-react/#/en-US/notification)
+* Vuetify: [Vuetify Alert](https://vuetifyjs.com/en/components/alerts/)

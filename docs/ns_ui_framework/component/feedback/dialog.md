@@ -12,3 +12,7 @@
     * 标题字体：Heading 5
     * 正文字体：Body 2
     * 按钮字体：Button，颜色 #004F9D
+
+## 参考资料
+
+* Vuetify: [Vuetify Dialog](https://vuetifyjs.com/en/components/dialogs/)

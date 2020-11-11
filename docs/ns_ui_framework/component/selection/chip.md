@@ -16,6 +16,6 @@
     * 字体：Body 2
     * 点击close按钮后，原chip消失，剩余chip居中
 
+## 参考资料
 
-
-
+* Vuetify: [Vuetify Chip](https://vuetifyjs.com/en/components/chips/)

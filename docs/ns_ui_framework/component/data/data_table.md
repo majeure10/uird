@@ -11,3 +11,7 @@
 1. 表头字体：Roboto 12px Medium #000000
 2. 表格内容字体：Body 2
 3. Row per page：Caption
+
+## 参考资料
+
+* Vuetify: [Vuetify Data Table](https://vuetifyjs.com/en/components/data-tables/)

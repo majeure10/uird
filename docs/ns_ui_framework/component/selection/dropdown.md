@@ -16,3 +16,7 @@
 ![UI Framework Selection - Dropdown Modified Measure](../../../imgs/ns_ui_framework_measure/components/selection/dropdown_modified.png)
 
 1. 选项字体：Body 2 #868686
+
+## 参考资料
+
+* Vuetify: [Vuetify Select](https://vuetifyjs.com/en/components/selects/)

@@ -13,3 +13,7 @@
 3. 提示文字：Body 1 #F68D05
 4. [提示](../../../icon_library/alert_event.svg)
 
+## 参考资料
+
+* Vuetify: [Vuetify Switch](https://vuetifyjs.com/en/components/switches/)
+

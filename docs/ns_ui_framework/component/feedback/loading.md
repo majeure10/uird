@@ -12,3 +12,8 @@
 2. 进度条框位于页面中心，显示时间3s（另一按钮为无限时间）
     * 填充色：primary color #004F9D； 
     * 字体：Button #FFFFFF
+
+
+## 参考资料
+
+* Vuetify: [Vuetify Dialog Loader](https://vuetifyjs.com/en/components/dialogs/#loader)

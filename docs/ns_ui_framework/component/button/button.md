@@ -10,3 +10,7 @@
 
 1. Button 主色色号为：#004F9D
 2. Button 复色色号：#868686
+
+## 参考资料
+
+* Vuefity: [Vuetify Button](https://vuetifyjs.com/en/components/buttons/)
