@@ -62,6 +62,8 @@ nav:
     - Resources:
       - Sketch: product_team/resource/sketch/resource_sketch.md
       - Issue: product_team/resource/issue/resource_issue.md
+  - AWS 调研:
+    - AWS 计费与结算方式: aws/aws_pricing.md
 
 theme:
   name: material
