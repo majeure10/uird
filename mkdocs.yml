@@ -65,6 +65,8 @@ nav:
       - Issue: product_team/resource/issue/resource_issue.md
   - AWS 调研:
     - AWS 计费与结算方式: aws/aws_pricing.md
+  - Ansys 调研: 
+    - Ansys 自动驾驶技术: ansys/ansys_autonomy.md
 
 theme:
   name: material
