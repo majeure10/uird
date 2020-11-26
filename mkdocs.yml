@@ -46,7 +46,9 @@ nav:
         - 任务 (卡片功能): ns_prd/task/endurance_test_card.md
         - 查看任务详情:
           - Scenario Test: ns_prd/task_detail/scenario_test_monitor.md
-          - Endurance Test: ns_prd/task_detail/endurance_test_monitor.md
+          - Endurance Test: 
+            - Endurance Test Monitor: ns_prd/task_detail/endurance_test_monitor.md
+            - Endurance Test Monitor - Traffic Flow Configure: ns_prd/task_detail/endurance_test_monitor_traffic_flow_configure.md
       -  仿真平台使用手册 NS User Guide: ns_prd/user_guide/user_guide.md
   - Produt Team:
     - Plan (UI Framework): product_team/plan_ui_framework/plan_ui_framework.md
