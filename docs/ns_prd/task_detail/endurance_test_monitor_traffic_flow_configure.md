@@ -21,6 +21,6 @@
 
 ## 驾驶员类型选择
 
-![Endurance Test - Monitor- Traffic Flow Congifure Driver Type](Endurance_Test-Monitor-Traffic_Flow_Configure-Driver_Type.png)
+![Endurance Test - Monitor- Traffic Flow Congifure Driver Type](../../imgs/ns_prd/Endurance_Test-Monitor-Traffic_Flow_Configure-Driver_Type.png)
 
 1. Driver Type：点击下拉框，选择不同的驾驶员类型
